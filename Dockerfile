@@ -9,6 +9,7 @@ RUN apt install -y build-essential \
                    qttools5-dev \
                    qtdeclarative5-dev \
                    libqt5x11extras5-dev \
+                   libqt5websockets5-dev \
                    qttools5-dev-tools
 
 
